@@ -50,5 +50,6 @@ project_01_instagram_influencer_analysis/
 
 ## 🔗 대시보드 링크
 
-태블로 퍼블릭에서 대시보드를 직접 확인하실 수 있습니다.
-👉 [Tableau Dashboard Link](dashboard/tableau_public_link.md)
+아래 이미지를 클릭하시면 **인터랙티브 태블로 대시보드**를 직접 확인하실 수 있습니다.
+
+[![인플루언서 분석 대시보드 미리보기](https://public.tableau.com/static/images/_2/_260506/_/1_rss.png)](https://public.tableau.com/views/_260506/_)
